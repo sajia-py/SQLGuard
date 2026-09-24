@@ -1,0 +1,7 @@
+{
+  "name": "SQLGuard — SQL Query Compiler & Security Analyzer",
+  "description": "A full-featured SQL compiler construction engine and security analyzer featuring lexical analysis, AST parsing, semantic validation, SQL injection detection, intermediate representation, query optimization, and interactive execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
